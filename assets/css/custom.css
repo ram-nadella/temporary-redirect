@@ -1,0 +1,18 @@
+body {
+  background-color: #8EC4BA;
+  background-color: #62A79A;
+  color: white;
+  font-family: "Fira Mono", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#main {
+  opacity: 0.6;
+  font-size: 2rem;
+}
+#info-icon {
+  color: white;
+  opacity: 0.3;
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  text-decoration: none;
+}
