@@ -28,4 +28,4 @@ The really powerful consequence of this setup is that changes can be made using 
 * Mozilla (for the Fira Mono font)
 * Google Fonts (for free web font hosting)
 
-*Heroku has a free tier but with limitations – they *turn off / pause* the dyno (container?) that the app is running on when there is no activity. In addition they have a per day limit on the number of hours it can be active. This in practice leads to a several second delay in response times for websites that see very little usage when the dyno needs to be spun back up. In spite of this limitation, the toolchain that surrounds Heroku’s runtime is very powerful and makes them a compelling choice*
+*Heroku has a free tier but with limitations – they **turn off / pause** the dyno (container?) that the app is running on when there is no activity. In addition they have a per day limit on the number of hours it can be active. This in practice leads to a several second delay in response times for websites that see very little usage when the dyno needs to be spun back up. In spite of this limitation, the toolchain that surrounds Heroku’s runtime is very powerful and makes them a compelling choice*
